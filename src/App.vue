@@ -4,19 +4,15 @@ import ImageGrid from "./components/ImageGrid.vue";
 </script>
 
 <template>
-  <header>
-    <div class="wrapper">
-      <HeaderPage />
-    </div>
-  </header>
+  <div>
+    <header>
+      <div>
+        <HeaderPage />
+      </div>
+    </header>
 
-  <main>
-    <ImageGrid />
-  </main>
+    <main>
+      <ImageGrid />
+    </main>
+  </div>
 </template>
-
-<style scoped>
-header {
-  line-height: 1.5;
-}
-</style>

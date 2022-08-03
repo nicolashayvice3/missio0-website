@@ -1,5 +1,3 @@
 <template>
-  <div></div>
+  <div class="text-3xl">this is the menu</div>
 </template>
-
-<style scoped></style>

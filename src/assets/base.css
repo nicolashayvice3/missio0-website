@@ -32,8 +32,6 @@
 
   --color-heading: var(--vt-c-text-light-1);
   --color-text: var(--vt-c-text-light-1);
-
-  --section-gap: 160px;
 }
 
 /* @media (prefers-color-scheme: dark) {
@@ -51,11 +49,9 @@
 } */
 
 body {
-  min-height: 100vh;
   color: var(--color-text);
   background: var(--color-background);
   transition: color 0.5s, background-color 0.5s;
-  line-height: 1.6;
   font-family: Inter, -apple-system, BlinkMacSystemFont, 'Lorem Ipsum', Roboto, Oxygen, Ubuntu,
     Cantarell, 'Lorem Ipsum';
   font-size: 15px;
