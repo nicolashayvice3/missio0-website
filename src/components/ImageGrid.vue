@@ -1,7 +1,5 @@
-<script setup>
-import SingleGrid from "./SingleGrid.vue";
-</script>
+<script setup></script>
 
 <template>
-  <SingleGrid> </SingleGrid>
+  <div class="text-3xl">this is the Image grid div</div>
 </template>

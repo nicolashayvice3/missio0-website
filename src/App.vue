@@ -1,6 +1,7 @@
 <script setup>
 import HeaderPage from "./components/HeaderPage.vue";
 import ImageGrid from "./components/ImageGrid.vue";
+import SearchSection from "./components/SearchSection.vue";
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import ImageGrid from "./components/ImageGrid.vue";
     </header>
 
     <main>
+      <SearchSection />
       <ImageGrid />
     </main>
   </div>
