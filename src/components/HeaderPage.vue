@@ -2,21 +2,24 @@
   <div class="flex w-full grid grid-flow-col border-2">
     <img
       src="./images/anubis-nomal.jpeg"
-      class="flex max-h-24 rounded-full ml-6 my-5 hover:opacity-75"
+      class="flex max-h-24 rounded-full justify-right ml-6 my-5 hover:opacity-75"
     />
-    <div class="flex justify-left items-center">Elysium Titans</div>
+    <div class="flex justify-left items-center text-lg font-bold">
+      Elysium Titans
+    </div>
+    <div class="col-span-8"></div>
     <div
-      class="flex items-center justify-center hover:opacity-75 hover:scale-125 cursor-pointer"
+      class="flex items-center justify-center hover:opacity-150 hover:scale-125 cursor-pointer"
     >
       Menu1
     </div>
     <div
-      class="flex items-center justify-center hover:opacity-75 hover:scale-125 cursor-pointer"
+      class="flex items-center justify-center hover:opacity-150 hover:scale-125 cursor-pointer"
     >
       Menu2
     </div>
     <div
-      class="flex items-center justify-center hover:opacity-75 hover:scale-125 cursor-pointer"
+      class="flex items-center justify-center hover:opacity-150 hover:scale-125 cursor-pointer"
     >
       Menu3
     </div>
