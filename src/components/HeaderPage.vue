@@ -7,7 +7,7 @@
     <div class="flex justify-left items-center text-lg font-bold">
       Elysium Titans
     </div>
-    <div class="col-span-8"></div>
+    <div class="col-span-12"></div>
     <div
       class="flex items-center justify-center hover:opacity-150 hover:scale-125 cursor-pointer"
     >
