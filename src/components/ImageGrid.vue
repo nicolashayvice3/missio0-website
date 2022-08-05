@@ -2,7 +2,7 @@
 
 <template>
   <div
-    class="grid grid-flow-col flex flex-nowrap items-center justify-center space-x-24 pt-20"
+    class="grid grid-flow-col flex flex-nowrap items-center justify-center space-x-36 pt-20"
   >
     <div class="relative max-w-xs max-h-80 group">
       <img
@@ -12,8 +12,8 @@
       <div
         class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
       >
-        <p class="font-bold text-lg">Lorem Ipsum</p>
-        <p class="font-semibold">Est verenatis</p>
+        <p class="font-bold text-lg">Zeus</p>
+        <p class="font-semibold">Armour of the dwarfs</p>
       </div>
     </div>
     <div class="relative max-w-xs max-h-80 group">
@@ -22,10 +22,10 @@
         class="hover:scale-125 hover:rounded-lg"
       />
       <div
-        class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
+        class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-64 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
       >
-        <p class="font-bold text-lg">Lorem Ipsum</p>
-        <p class="font-semibold">Est verenatis</p>
+        <p class="font-bold text-lg">Medusa</p>
+        <p class="font-semibold">Suns gaze</p>
       </div>
     </div>
     <div class="relative max-w-xs max-h-80 group">
@@ -36,8 +36,8 @@
       <div
         class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
       >
-        <p class="font-bold text-lg">Lorem Ipsum</p>
-        <p class="font-semibold">Est verenatis</p>
+        <p class="font-bold text-lg">Ne Zha</p>
+        <p class="font-semibold">Slayer of dragons</p>
       </div>
     </div>
   </div>
