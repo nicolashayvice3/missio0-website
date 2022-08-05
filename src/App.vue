@@ -1,6 +1,7 @@
 <script setup>
 import HeaderPage from "./components/HeaderPage.vue";
 import SearchSection from "./components/SearchSection.vue";
+import "./assets/main.css";
 </script>
 
 <template>

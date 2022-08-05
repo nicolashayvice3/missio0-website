@@ -10,7 +10,7 @@
         class="hover:scale-125 hover:rounded-lg"
       />
       <div
-        class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
+        class="text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
       >
         <p class="font-bold text-lg">Zeus</p>
         <p class="font-semibold">Armour of the dwarfs</p>
@@ -22,7 +22,7 @@
         class="hover:scale-125 hover:rounded-lg"
       />
       <div
-        class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-64 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
+        class="text-black bg-slate-500 bg-origin-border pl-4 pr-64 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
       >
         <p class="font-bold text-lg">Medusa</p>
         <p class="font-semibold">Suns gaze</p>
@@ -34,7 +34,7 @@
         class="hover:scale-125 hover:rounded-lg"
       />
       <div
-        class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
+        class="text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
       >
         <p class="font-bold text-lg">Ne Zha</p>
         <p class="font-semibold">Slayer of dragons</p>
