@@ -4,14 +4,41 @@
   <div
     class="grid grid-flow-col flex flex-nowrap items-center justify-center space-x-24 pt-20"
   >
-    <div class="">
-      <img src="./images/medusa sun.jpeg" class="max-w-xs max-h-80" />
+    <div class="relative max-w-xs max-h-80 group">
+      <img
+        src="./images/zeus the ZEUS.jpeg"
+        class="hover:scale-125 hover:rounded-lg"
+      />
+      <div
+        class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
+      >
+        <p class="font-bold text-lg">Lorem Ipsum</p>
+        <p class="font-semibold">Est verenatis</p>
+      </div>
     </div>
-    <div class="">
-      <img src="./images/ne zha.jpeg" class="max-w-xs" />
+    <div class="relative max-w-xs max-h-80 group">
+      <img
+        src="./images/medusa sun.jpeg"
+        class="hover:scale-125 hover:rounded-lg"
+      />
+      <div
+        class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
+      >
+        <p class="font-bold text-lg">Lorem Ipsum</p>
+        <p class="font-semibold">Est verenatis</p>
+      </div>
     </div>
-    <div class="">
-      <img src="./images/zeus the ZEUS.jpeg" class="max-w-xs" />
+    <div class="relative max-w-xs max-h-80 group">
+      <img
+        src="./images/ne zha.jpeg"
+        class="hover:scale-125 hover:rounded-lg"
+      />
+      <div
+        class="absolute text-black bg-slate-500 bg-origin-border pl-4 pr-52 py-3 whitespace-nowrap max-w-xs group-hover:rounded-lg group-hover:text-white"
+      >
+        <p class="font-bold text-lg">Lorem Ipsum</p>
+        <p class="font-semibold">Est verenatis</p>
+      </div>
     </div>
   </div>
 </template>
