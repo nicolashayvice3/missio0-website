@@ -4,7 +4,9 @@
       src="./images/anubis-nomal.jpeg"
       class="flex max-h-24 rounded-full justify-right ml-6 my-5 hover:opacity-75"
     />
-    <div class="flex justify-left items-center text-lg font-bold">
+    <div
+      class="flex justify-left items-center text-4xl font-bold mainTitle sm:text-lg"
+    >
       Elysium Titans
     </div>
     <div class="col-span-12"></div>
